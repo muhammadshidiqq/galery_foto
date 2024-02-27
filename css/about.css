@@ -1,0 +1,44 @@
+body {
+	font-family: Josefin Sans;
+}
+.banner {
+	height: 80vh;
+	background: linear-gradient(rgb(0,0,0,0.4),rgb(0,0,0,0.4)),url(../image/banner.jpg);
+	background-size: cover;
+	background-position: center;
+}
+.banner-produk {
+	height: 55vh;
+	background: linear-gradient(rgb(0,0,0,0.6),rgb(0,0,0,0.6)),url(../image/banner.jpg);
+	background-size: cover;
+	background-position: center;
+}
+.hovered-card{
+	transition: .5s;
+}
+
+.hovered-card:hover{
+	transform: scale(1.1);
+}
+.main-color{
+	background-color: #325288 !important;
+}
+.icon-keuntungan{
+	width: 90px;
+	height: 90px;
+	border: solid #fff 2px;
+	border-radius: 50%;
+	color: #fff;
+}
+.content-subscribe{
+	background-color: #325288;
+}
+.bg-footer{
+	color: #fff;
+}
+.color-footer{
+	background-color: #263159 !important;
+}
+.copyright{
+	background-color: #434242;
+}
