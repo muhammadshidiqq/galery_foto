@@ -17,15 +17,15 @@ Ini adalah proyek galeri foto web yang dibuat oleh Muhammad Shidiq. Proyek ini b
     git clone https://github.com/muhammadshidiq/galery_foto.git
     ```
 
-2. **Pindahkan Project Ke Localhost Server:**
+2. **Pindahkan Project Ke Localhost Server dan Import Database:**
 
 ## Kontribusi
 
 Saya sangat terbuka terhadap kontribusi! Jika Anda ingin memperbaiki bug, menambahkan fitur baru, atau meningkatkan dokumentasi, jangan ragu untuk melakukan pull request.
 
-## Lisensi
+## Donate 
 
-Proyek ini dilisensikan di bawah Lisensi MIT. Lihat [LICENSE](LICENSE) untuk informasi lebih lanjut.
+Link Donate
 
 ## Kontak
 
