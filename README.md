@@ -29,13 +29,29 @@ Proyek ini dilisensikan di bawah Lisensi MIT. Lihat [LICENSE](LICENSE) untuk inf
 
 ## Kontak
 
-Jika Anda memiliki pertanyaan atau saran, jangan ragu untuk menghubungi saya di [email_saya@example.com](mailto:mshidiq011@gmail.com).
+Jika Anda memiliki pertanyaan atau saran, jangan ragu untuk menghubungi saya di (email saya:mshidiq011@gmail.com).
 
 Terima kasih telah mengunjungi proyek ini!
 
-<!-- ANIMATED ASCII ART -->
+## Demo Animasi
+
+Klik [di sini](#) untuk melihat demo animasi.
+
 <details>
-  <summary>🚀 Klik untuk melihat animasi ASCII!</summary>
+  <summary>Klik untuk melihat animasi</summary>
+  
+  <div id="animation" style="width: 100px; height: 100px; background-color: red;"></div>
+
+  <script>
+    // Animasi sederhana dengan JavaScript
+    const element = document.getElementById("animation");
+    let position = 0;
+    setInterval(() => {
+      position += 10;
+      if (position > 200) position = 0;
+      element.style.left = `${position}px`;
+    }, 100);
+  </script>
 </details>
 
 
